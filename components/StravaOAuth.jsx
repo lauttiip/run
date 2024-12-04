@@ -11,6 +11,8 @@ import { useRouter } from "expo-router";
 import * as WebBrowser from "expo-web-browser";
 import { Logo } from "./Logo";
 
+
+
 WebBrowser.maybeCompleteAuthSession();
 
 const discovery = {
@@ -25,7 +27,7 @@ export default function StravaOAuth() {
     {
       clientId: process.env.EXPO_PUBLIC_STRAVA_CLIENT_ID,
       scopes: ["activity:read_all"],
-      redirectUri: process.env.EXPO_PUBLIC_STRAVA_REDIRECT_URI,
+      redirectUri: "http://localhost:8081",
       responseType: "code",
     },
     discovery
