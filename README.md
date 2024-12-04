@@ -1,5 +1,6 @@
 # Proyecto StravaApp
-Fue un proyecto complicado de hacer en 48hs ya que no tenia mucho conocimiento de OAuth y nunca habia probado hacer un aunteticacion, ademas no sabia usar react native debido a que en mis curso trabajamos con react.js y vite, tuve que pasar casi que el primer dia viendo videos de como utilizar la API de Strava y las tecnologias solicitada, donde perdi mucho tiempo ahi, igualmente estoy agradecido por la oportunidad ya que me sirve para aprender mas 
+Fue un proyecto complicado de hacer en 48hs ya que no tenia mucho conocimiento de OAuth y nunca habia probado hacer un aunteticacion, ademas no sabia usar react native debido a que en mis curso trabajamos con react.js y vite, tuve que pasar casi que el primer dia viendo videos de como utilizar la API de Strava y las tecnologias solicitada, donde perdi mucho tiempo ahi, igualmente estoy agradecido por la oportunidad ya que me sirve para aprender mas.
+Aclaro que probe miles de formas para hacer el deploy en vercel pero claramente me esta faltando algo y no logre encontrar el porque asi que grabe un video de como lo veo yo.
 
 ## Configuración del Proyecto
 
