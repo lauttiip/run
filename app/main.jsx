@@ -9,7 +9,6 @@ import {
   SafeAreaProvider,
 } from "react-native-safe-area-context";
 
-
 export default function main() {
   const listaActividades =
     "https://www.strava.com/api/v3/athlete/activities?per_page=10";

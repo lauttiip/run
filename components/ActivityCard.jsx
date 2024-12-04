@@ -12,8 +12,8 @@ const ActivityCard = ({ activity }) => {
   } = activity;
   const formattedTime = new Date(moving_time * 1000)
     .toISOString()
-    .substr(11, 8); 
-  const formattedDate = new Date(start_date_local).toLocaleDateString(); 
+    .substr(11, 8);
+  const formattedDate = new Date(start_date_local).toLocaleDateString();
 
   return (
     <Card containerStyle={styles.card}>
